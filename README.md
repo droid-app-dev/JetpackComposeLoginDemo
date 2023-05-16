@@ -1,7 +1,15 @@
 # LoginFeatureTemplateUsingJetpackCompose
 
 
-This is a complete functional template for login and registration flow for any #Android #App using #JetpackCompose.
+This is a demo project that showcases how to create a login screen using Jetpack Compose in Android. The project uses the latest Android Jetpack Compose toolkit to build the UI. #Android #App using #JetpackCompose.
+
+
+#**Requirements**
+
+
+- Android Studio Arctic Fox or later 
+- Android SDK 30 or later 
+- Kotlin 1.5 or later 
 
 
 <img src="pics/Screenshot_20230517_004328.png" width="400"/> <img src="pics/Screenshot_20230517_004402.png" width="400"/> 
